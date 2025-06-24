@@ -1,0 +1,47 @@
+[PropertyInfo]
+addstuButton,javax.swing.JButton,false,false, , ,false,<default>
+borderLayout1,java.awt.BorderLayout,false,false, , ,false,<default>
+buttonGroup1,javax.swing.ButtonGroup,false,false, , ,false,<default>
+classInfo,com.accpedu.model.ClassInfoBean,false,false, , ,false,<default>
+classlist,java.util.ArrayList,false,false, , ,false,<default>
+classModel,javax.swing.DefaultComboBoxModel,false,false, , ,false,<default>
+defaultTableModel1,javax.swing.table.DefaultTableModel,false,false, , ,false,<default>
+delstuButton,javax.swing.JButton,false,false, , ,false,<default>
+exitmanageButton,javax.swing.JButton,false,false, , ,false,<default>
+JCheckBox,javax.swing.JCheckBox[],false,false, , ,false,<default>
+JCheckBox1,javax.swing.JCheckBox,false,false, , ,false,<default>
+JCheckBox2,javax.swing.JCheckBox,false,false, , ,false,<default>
+JCheckBox3,javax.swing.JCheckBox,false,false, , ,false,<default>
+JCheckBox4,javax.swing.JCheckBox,false,false, , ,false,<default>
+JCheckBox5,javax.swing.JCheckBox,false,false, , ,false,<default>
+JCheckBox6,javax.swing.JCheckBox,false,false, , ,false,<default>
+JComboBox1,javax.swing.JComboBox,false,false, , ,false,<default>
+JLabel1,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel10,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel2,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel3,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel4,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel5,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel6,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel7,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel8,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel9,javax.swing.JLabel,false,false, , ,false,<default>
+JList1,javax.swing.JList,false,false, , ,false,<default>
+JList2,javax.swing.JList,false,false, , ,false,<default>
+JPanel1,javax.swing.JPanel,false,false, , ,false,<default>
+JPanel2,javax.swing.JPanel,false,false, , ,false,<default>
+modifystuButton,javax.swing.JButton,false,false, , ,false,<default>
+savestuButton,javax.swing.JButton,false,false, , ,false,<default>
+selectionMode,javax.swing.ListSelectionModel,false,false, , ,false,<default>
+tablePanel,javax.swing.JPanel,false,false, , ,false,<default>
+titledBorder1,javax.swing.border.TitledBorder,false,false, , ,false,<default>
+titledBorder2,javax.swing.border.TitledBorder,false,false, , ,false,<default>
+userinfo,com.accpedu.model.UserInfoBean,false,false, , ,false,<default>
+XYLayout1,com.borland.jbcl.layout.XYLayout,false,false, , ,false,<default>
+XYLayout2,com.borland.jbcl.layout.XYLayout,false,false, , ,false,<default>
+XYLayout3,com.borland.jbcl.layout.XYLayout,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

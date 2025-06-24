@@ -1,0 +1,44 @@
+1)   搭建数据库环境
+   1、安装数据库(MySQL 5.0.24)， 用户: root，密码: (空) 。
+   2、建库piscesdb。
+   3、建表address:
+
+<!--      
+
+drop table address;
+
+create table address (
+   addressID int not null,
+   city varchar(55) not null,
+   street varchar(55) NOT NULL,
+   zip varchar(8) NOT NULL,
+   PRIMARY KEY  (addressID)
+);
+
+insert into address values (1, "深圳", "坂田市场", "518001");
+insert into address values (2, "深圳", "坂田路口", "518002");
+insert into address values (3, "深圳", "四季花城", "518003");
+
+-->
+
+4、建表userinfo:
+
+<!--
+
+drop table userinfo;
+
+create table userinfo (
+   userID int not null,  /** 用户id  */
+   username varchar(20) not null, /** 姓名  */
+   birthday datetime null,   /**  出生日期  */
+   sex varchar(8) not null,   /** 性别 */
+   addressID int not null,    /** 地址id  */
+   PRIMARY KEY (userID)
+);
+
+insert into userinfo values (1, "张金雄", null, "male", 1);
+insert into userinfo values (2, "李某某", null, "male", 2);
+insert into userinfo values (3, "王某某", '2006-08-10', "female", 3);
+insert into userinfo values (4, "陈某某", '2006-08-12', "male", 3);
+
+-->

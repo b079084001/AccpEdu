@@ -1,0 +1,13 @@
+>mysql;
+>use mysql;
+>update user set password=PASSWORD("xinliwei") where user='root';
+>flush privileges;
+>exit;
+>mysql -u root -p
+>******
+>use mysql;
+>grant all privileges on *.* to dbuser@localhost identified by '1234' with grant option;
+>exit;
+>mysql -u dbuser -p
+>******
+>
