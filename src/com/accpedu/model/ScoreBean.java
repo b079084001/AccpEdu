@@ -1,9 +1,9 @@
 package com.accpedu.model;
 
 public class ScoreBean {
-    private String stuNo;//学生学号
-    private String subjectNo;//科目编号
-    private int score;//成绩
+    private String stuNo;//瀛︾敓瀛﹀彿
+    private String subjectNo;//绉戠洰缂栧彿
+    private int score;//鎴愮哗
 
     public ScoreBean() {
     }
